@@ -1,4 +1,4 @@
- Wpipeline {
+pipeline {
   agent any
   stages {
     stage('Long Short') {
